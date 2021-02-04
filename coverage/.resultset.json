@@ -57,11 +57,24 @@
       ],
       "/Users/MaxDunaevschi/Desktop/lab5-choretracker-starter/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/MaxDunaevschi/Desktop/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
       ],
       "/Users/MaxDunaevschi/Desktop/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -315,6 +328,6 @@
         0
       ]
     },
-    "timestamp": 1612400643
+    "timestamp": 1612401236
   }
 }

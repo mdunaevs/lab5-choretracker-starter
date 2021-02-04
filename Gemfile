@@ -52,6 +52,7 @@ gem 'carrierwave', '1.2.2'
 gem 'will_paginate', '3.1.6'
 gem 'vuejs-rails', '2.5.13'
 gem 'best_in_place', '~> 3.0.1'
+gem 'turbolinks'
 
 
 

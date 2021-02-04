@@ -13,7 +13,7 @@ class Chore < ApplicationRecord
     scope :by_task, -> {joins(:task).order("tasks.name")}
 
     def status
-        if self.completed 
+        if self.completed == true
             "Completed"
         else
             "Pending"
